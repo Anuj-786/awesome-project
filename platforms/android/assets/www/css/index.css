@@ -113,19 +113,3 @@ h1 {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
 }
-.test {
-    width: 50%;
-    margin: 0 auto;
-    margin-top: 100px;
-}
-
-button {
-    background: black none repeat scroll 0 0;
-    border-radius: 20px;
-    color: white;
-    font-size: 18px;
-    padding: 15px 21px 20px 10px;
-    text-transform: uppercase;
-    width: 100%;
-    outline: none !important;
-}
